@@ -2,7 +2,7 @@
 
 A data analysis project built on a 30,000-row synthetic Decathlon sales dataset (FY2024–FY2026), covering an executive Power BI–style dashboard and a full written analytics report answering 15 real business questions with data.
 
-![Dashboard Preview](Decathlon_Dashboard_Landscape.png)
+
 
 ## 📊 Project Overview
 
