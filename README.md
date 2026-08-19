@@ -90,5 +90,4 @@ Synthetic dataset created for portfolio/demonstration purposes only. Not real De
 
 ---
 
-**Author:** *[Your Name]*
-📧 *[your.email@example.com]* · 🔗 [LinkedIn](#) · 💻 [Portfolio](#)
+
